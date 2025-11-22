@@ -1,4 +1,4 @@
-# User manual
+skin tool pro
 
 [[toc]]
 
